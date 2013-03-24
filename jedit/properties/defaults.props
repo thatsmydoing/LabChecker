@@ -1,0 +1,23 @@
+#jEdit properties
+#Mon Jul 05 00:51:45 PHT 2010
+view.width=748
+tip.show=false
+view.height=525
+search.beanshell.toggle=false
+view.y=187
+view.x=345
+status.errorWidget.y=50
+status.errorWidget.x=50
+firstTime=false
+status.errorWidget.width=816
+helpviewer.extendedState=0
+search.ignoreCase.toggle=false
+search.regexp.toggle=false
+helpviewer.splitter=250
+helpviewer.height=528
+view.extendedState=0
+helpviewer.width=758
+search.wrap.toggle=false
+status.errorWidget.height=425
+helpviewer.y=50
+helpviewer.x=50
